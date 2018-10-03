@@ -9,7 +9,7 @@ Typing.js is a pure javascript **library** which allows you to emulate the most 
 
 ### Getting started
 
-* Firsty, get the  ```typing/typing.min.js``` file
+* Firsty, dowmload or clone the  ```typing/typing.min.js``` file
 
 * Then, just add these lines to your html file
 
